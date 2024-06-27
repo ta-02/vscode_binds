@@ -1,1 +1,3 @@
-vim like binds for vscode
+# VSCODE Settings
+
+vim like binds for vscode and stuff
